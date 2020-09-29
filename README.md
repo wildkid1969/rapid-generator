@@ -1,1 +1,0 @@
-# rapid-generator
